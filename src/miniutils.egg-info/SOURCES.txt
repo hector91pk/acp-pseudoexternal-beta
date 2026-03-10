@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/miniutils/__init__.py
+src/miniutils/file_utils.py
+src/miniutils/math_utils.py
+src/miniutils/text_utils.py
+src/miniutils.egg-info/PKG-INFO
+src/miniutils.egg-info/SOURCES.txt
+src/miniutils.egg-info/dependency_links.txt
+src/miniutils.egg-info/top_level.txt
+tests/test_file_utils.py
+tests/test_math_utils.py
+tests/test_text_utils.py
